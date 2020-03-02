@@ -16,7 +16,7 @@ Mocha is a feature-rich JavaScript test framework running on Node.js and in the 
 ## 2. Official references websites. <br />
 Mocha official website : https://mochajs.org <br />
 
-**_Mocha related articles_**
+**_Mocha related articles_** <br />
 Introduction to Testing with Mocha and Chai by codecademy : https://www.codecademy.com/articles/bapi-testing-intro#:~:text=Mocha%20and%20Chai%2C%20Test%20Suites,results%20to%20the%20terminal%20window. <br />
  
 <a name="github"></a>
